@@ -5,7 +5,8 @@ Uygulamanın amacı, kullanıcıların ödemelerini, faturalarını, giderlerini
 ## 🔑Login 
 Kullanıcıların, Banka Form ekranına erişebilmek için kendilerine iletilen giriş bilgilerini eksiksiz ve doğru bir şekilde girmeleri gerekmektedir. Eksik veya hatalı bir giriş yapıldığında, sistem hata verecek ve kullanıcıdan tekrar giriş yapması istenecektir. Ayrıca, kullanıcılar giriş alanlarını boş bırakmaya çalıştıklarında, sistem uyarı mesajı verecek ve boş bırakılan alanlar için giriş yapmaları hatırlatılacaktır. Giriş işlemi doğru bir şekilde tamamlandığında ise, kullanıcılar Banka Form ekranına erişim sağlayacaklardır.
 
-![Ekran Görüntüsü](login.png)
+![Ekran Görüntüsü](MyFinancialCrm/login.png)
+
 
 ## 🏦Bankalar 
 Kullanıcılar bu ekranda, kullandıkları bankalardaki toplam bakiyelerini kolayca görebilir ve son 5 banka hareketine ait detaylı bilgileri görüntüleyebilirler. Bu sayede, kullanıcılar hesaplarındaki güncel durumu takip edebilir ve geçmiş hareketlere ilişkin bilgilere hızlı erişim sağlayabilirler.
